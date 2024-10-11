@@ -28,6 +28,7 @@ To run this project, you will need:
 2. Install SFML:
 
 Follow the SFML installation guide for your operating system.
+
 3.Build the project:
 
 Navigate to the project directory and run:
